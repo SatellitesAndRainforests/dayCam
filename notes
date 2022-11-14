@@ -1,0 +1,6 @@
+0)	Install Arducam
+1)	sudo pip3 install Adafruit_DHT
+2)	in  /boot/config.txt
+	# Activate I2C and enable RTC
+
+I am using 100 ohm resistors with the leds - is it safe ?

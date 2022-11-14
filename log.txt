@@ -1,0 +1,15 @@
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 22.0 C    Humidity: 64.8% 
+ --- image saved --- 17:01:35s__14:11:2022__22.0c__64.8h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 21.6 C    Humidity: 66.7% 
+ --- image saved --- 17:01:43s__14:11:2022__21.6c__66.7h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 21.6 C    Humidity: 65.4% 
+ --- image saved --- 17:02:27s__14:11:2022__21.6c__65.4h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---

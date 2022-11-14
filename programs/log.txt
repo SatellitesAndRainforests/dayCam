@@ -1,0 +1,555 @@
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 21.8 C    Humidity: 64.9% 
+ --- image saved --- 16:56:47s__14:11:2022__21.8c__64.9h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 22.1 C    Humidity: 64.6% 
+ --- image saved --- 16:56:59s__14:11:2022__22.1c__64.6h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 22.1 C    Humidity: 64.4% 
+ --- image saved --- 16:57:10s__14:11:2022__22.1c__64.4h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 22.1 C    Humidity: 64.8% 
+ --- image saved --- 16:57:21s__14:11:2022__22.1c__64.8h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 22.0 C    Humidity: 64.8% 
+ --- image saved --- 16:57:35s__14:11:2022__22.0c__64.8h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.9 C    Humidity: 68.8% 
+ --- image saved --- 17:31:15s__14:11:2022__20.9c__68.8h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.9 C    Humidity: 68.8% 
+ --- image saved --- 17:31:27s__14:11:2022__20.9c__68.8h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.9 C    Humidity: 67.9% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- taking photo --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Motion Detected --- 
+ --- taking photo --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Motion Detected --- 
+ --- taking photo --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Motion Detected --- 
+ --- taking photo --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Motion Detected --- 
+ --- taking photo --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Motion Detected --- 
+ --- taking photo --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Motion Detected --- 
+ --- taking photo --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+ --- Motion Detected --- 
+ --- taking photo --- 
+Temp: 21.3 C    Humidity: 67.7% 
+ --- image saved --- 17:51:14s__14:11:2022__21.3c__67.7h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.7 C    Humidity: 66.6% 
+ --- image saved --- 17:53:27s__14:11:2022__21.7c__66.6h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.7 C    Humidity: 66.3% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.7 C    Humidity: 65.8% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.8 C    Humidity: 65.8% 
+ --- image saved --- 17:54:28s__14:11:2022__21.8c__65.8h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.8 C    Humidity: 65.5% 
+ --- image saved --- 17:54:37s__14:11:2022__21.8c__65.5h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.8 C    Humidity: 65.5% 
+ --- image saved --- 17:55:01s__14:11:2022__21.8c__65.5h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.9 C    Humidity: 67.2% 
+ --- image saved --- 17:55:12s__14:11:2022__21.9c__67.2h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.9 C    Humidity: 67.1% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.9 C    Humidity: 65.5% 
+ --- image saved --- 18:00:18s__14:11:2022__21.9c__65.5h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.0 C    Humidity: 67.3% 
+ --- image saved --- 18:01:57s__14:11:2022__21.0c__67.3h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.2 C    Humidity: 70.6% 
+ --- image saved --- 18:08:45s__14:11:2022__20.2c__70.6h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.2 C    Humidity: 70.3% 
+ --- image saved --- 18:09:07s__14:11:2022__20.2c__70.3h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.1 C    Humidity: 70.3% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.1 C    Humidity: 70.9% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.0 C    Humidity: 71.0% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.1 C    Humidity: 71.0% 
+ --- image saved --- 18:14:06s__14:11:2022__20.1c__71.0h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.0 C    Humidity: 71.4% 
+ --- image saved --- 18:16:45s__14:11:2022__20.0c__71.4h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.0 C    Humidity: 71.4% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: 1
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.0 C    Humidity: 71.4% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: 1
+
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 69.8% 
+ --- image saved --- 18:27:04s__14:11:2022__20.7c__69.8h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 69.7% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 68.7% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 68.8% 
+ --- image saved --- 18:30:42s__14:11:2022__20.8c__68.8h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.5 C    Humidity: 69.4% 
+ --- image saved --- 18:30:55s__14:11:2022__20.5c__69.4h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 68.7% 
+ --- image saved --- 18:37:55s__14:11:2022__20.7c__68.7h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 68.7% 
+ --- image saved --- 18:38:19s__14:11:2022__20.7c__68.7h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 69.3% 
+ --- image saved --- 18:39:32s__14:11:2022__20.7c__69.3h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 68.7% 
+ --- image saved --- 18:40:10s__14:11:2022__20.8c__68.7h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 68.8% 
+ --- image saved --- 18:40:57s__14:11:2022__20.8c__68.8h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 68.8% 
+ --- image saved --- 18:41:53s__14:11:2022__20.8c__68.8h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 10.6 C    Humidity: 3310.5% 
+ --- image saved --- 18:42:48s__14:11:2022__10.6c__3310.5h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.0 C    Humidity: 68.2% 
+ --- image saved --- 18:55:02s__14:11:2022__21.0c__68.2h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.9 C    Humidity: 68.4% 
+ --- image saved --- 18:58:53s__14:11:2022__20.9c__68.4h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.9 C    Humidity: 68.4% 
+ --- image saved --- 19:00:00s__14:11:2022__20.9c__68.4h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.1 C    Humidity: 67.5% 
+ --- image saved --- 19:03:45s__14:11:2022__21.1c__67.5h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.1 C    Humidity: 67.4% 
+ --- image saved --- 19:06:23s__14:11:2022__21.1c__67.4h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.0 C    Humidity: 67.8% 
+ --- image saved --- 19:13:37s__14:11:2022__21.0c__67.8h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
