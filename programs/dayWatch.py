@@ -27,14 +27,14 @@ baseline_new_moon = datetime(2022, 2, 1)    # There was a new moon on this date 
 
 
 def useFlash():
-    with open("useFlash.txt", "r") as flashFile:
+    with open("/home/pi/dayCam/useFlash.txt", "r") as flashFile:
         global flashOn 
         flashOn = flashFile.readline().strip()
         write_to_log("flash is on: " + flashOn)
 
 
 def write_to_log( message ):
-    with open("log.txt", "a") as log_file:
+    with open("/home/pi/dayCam/log.txt", "a") as log_file:
         print( message + "\n" )
         log_file.write( message + "\n" )
 

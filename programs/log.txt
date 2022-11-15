@@ -553,3 +553,12 @@ Temp: 21.0 C    Humidity: 67.8%
  --- Keyboard Interrupt --- 
  --- GPIO cleanup ---
  --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+flash is on: True
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
