@@ -14,7 +14,7 @@ GPIO.setup(17, GPIO.IN)
 
 # DHT22
 DHT_SENSOR = Adafruit_DHT.DHT22
-DHT_GPIO_PIN = 24
+DHT_GPIO_PIN = 18
 
 #Flash
 GPIO.setup(23, GPIO.OUT)
@@ -123,11 +123,15 @@ def add_information_to_filename():
 
     for i in range(3):
         try:
-            # Will freeze and crash program is not working
+            # Will freeze and crash program is not working (fixed ? on 31/12/22 )
             humidity, temperature = Adafruit_DHT.read_retry( DHT_SENSOR, DHT_GPIO_PIN )
-            filename_sensor_data = "{:.1f}c__{:.1f}h".format(temperature, humidity)
-            write_to_log( "Temp: {:.1f} C    Humidity: {:.1f}% ".format(temperature, humidity))
-            break
+
+            if humidity is not None and temperature is not None:
+                filename_sensor_data = "{:.1f}c__{:.1f}h".format(temperature, humidity)
+                write_to_log( "Temp: {:.1f} C    Humidity: {:.1f}% ".format(temperature, humidity))
+                break
+            else:
+                write_to_log( "error to retrieve data from dht" )
 
         except RuntimeError as error:
             # dht errors are common 
