@@ -1,0 +1,1334 @@
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.2 C    Humidity: 70.4% 
+ --- image saved --- 18:10:25s__02:01:2023__16.2c__70.4h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.2 C    Humidity: 70.6% 
+ --- image saved --- 18:10:36s__02:01:2023__16.2c__70.6h__3of4moon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.2 C    Humidity: 70.6% 
+ --- image saved --- 20:51:32s__02:01:2023__16.2c__70.6h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.8 C    Humidity: 61.9% 
+ --- image saved --- 20:51:40s__02:01:2023__18.8c__61.9h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.8 C    Humidity: 61.9% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.8 C    Humidity: 61.9% 
+ --- image saved --- 20:52:49s__02:01:2023__18.8c__61.9h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.5 C    Humidity: 62.8% 
+ --- image saved --- 20:53:00s__02:01:2023__18.5c__62.8h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 63.0% 
+ --- image saved --- 20:53:15s__02:01:2023__18.3c__63.0h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 63.0% 
+ --- image saved --- 20:53:24s__02:01:2023__18.4c__63.0h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 63.0% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 17.7 C    Humidity: 63.8% 
+ --- image saved --- 21:00:46s__02:01:2023__17.7c__63.8h__3of4moon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 17.6 C    Humidity: 63.8% 
+ --- image saved --- 21:01:07s__02:01:2023__17.6c__63.8h__3of4moon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.8 C    Humidity: 68.7% 
+ --- image saved --- 21:34:17s__02:01:2023__16.8c__68.7h__3of4moon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.8 C    Humidity: 68.5% 
+ --- image saved --- 21:34:50s__02:01:2023__16.8c__68.5h__3of4moon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.8 C    Humidity: 67.1% 
+ --- image saved --- 21:35:38s__02:01:2023__16.8c__67.1h__3of4moon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.6 C    Humidity: 67.0% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.5 C    Humidity: 67.9% 
+ --- image saved --- 21:36:40s__02:01:2023__16.5c__67.9h__3of4moon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.1 C    Humidity: 63.5% 
+ --- image saved --- 19:35:29s__12:01:2023__21.1c__63.5h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.1 C    Humidity: 65.4% 
+ --- image saved --- 19:35:38s__12:01:2023__20.1c__65.4h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.2 C    Humidity: 74.4% 
+ --- image saved --- 19:35:46s__12:01:2023__20.2c__74.4h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.2 C    Humidity: 74.4% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.2 C    Humidity: 74.5% 
+ --- image saved --- 19:40:15s__12:01:2023__20.2c__74.5h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.8 C    Humidity: 66.8% 
+ --- image saved --- 19:41:39s__12:01:2023__19.8c__66.8h__3of4moon(left).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.8 C    Humidity: 66.9% 
+ --- image saved --- 19:41:51s__12:01:2023__19.8c__66.9h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.6 C    Humidity: 67.5% 
+ --- image saved --- 19:43:50s__12:01:2023__19.6c__67.5h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.6 C    Humidity: 67.5% 
+ --- image saved --- 19:46:06s__12:01:2023__19.6c__67.5h__3of4moon(left).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 9.3 C    Humidity: 67.3% 
+ --- image saved --- 11:28:06s__28:01:2023__9.3c__67.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 7.1 C    Humidity: 65.7% 
+ --- image saved --- 11:28:16s__28:01:2023__7.1c__65.7h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 7.2 C    Humidity: 65.5% 
+ --- image saved --- 11:30:37s__28:01:2023__7.2c__65.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 7.4 C    Humidity: 65.6% 
+ --- image saved --- 11:30:50s__28:01:2023__7.4c__65.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 7.4 C    Humidity: 65.0% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 7.5 C    Humidity: 65.0% 
+ --- image saved --- 11:35:04s__28:01:2023__7.5c__65.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.0 C    Humidity: 64.0% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.0 C    Humidity: 64.3% 
+ --- image saved --- 11:37:34s__28:01:2023__8.0c__64.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.6 C    Humidity: 61.7% 
+ --- image saved --- 11:37:49s__28:01:2023__8.6c__61.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.6 C    Humidity: 61.7% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.7 C    Humidity: 64.3% 
+ --- image saved --- 12:30:59s__28:01:2023__8.7c__64.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.7 C    Humidity: 64.3% 
+ --- image saved --- 12:31:17s__28:01:2023__8.7c__64.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.6 C    Humidity: 65.7% 
+ --- image saved --- 12:31:44s__28:01:2023__8.6c__65.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.6 C    Humidity: 66.1% 
+ --- image saved --- 12:31:57s__28:01:2023__8.6c__66.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.7 C    Humidity: 65.1% 
+ --- image saved --- 12:32:17s__28:01:2023__8.7c__65.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.7 C    Humidity: 65.6% 
+ --- image saved --- 12:32:30s__28:01:2023__8.7c__65.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.7 C    Humidity: 65.7% 
+ --- image saved --- 12:32:45s__28:01:2023__8.7c__65.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.8 C    Humidity: 65.5% 
+ --- image saved --- 12:32:58s__28:01:2023__8.8c__65.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.8 C    Humidity: 64.7% 
+ --- image saved --- 12:33:12s__28:01:2023__8.8c__64.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.8 C    Humidity: 64.7% 
+ --- image saved --- 12:33:22s__28:01:2023__8.8c__64.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.8 C    Humidity: 64.7% 
+ --- image saved --- 12:33:30s__28:01:2023__8.8c__64.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.8 C    Humidity: 64.5% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.3 C    Humidity: 56.4% 
+ --- image saved --- 12:44:58s__28:01:2023__20.3c__56.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.9 C    Humidity: 56.9% 
+ --- image saved --- 12:46:19s__28:01:2023__19.9c__56.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.0 C    Humidity: 56.9% 
+ --- image saved --- 12:50:50s__28:01:2023__20.0c__56.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.1 C    Humidity: 58.4% 
+ --- image saved --- 12:53:29s__28:01:2023__19.1c__58.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.8 C    Humidity: 59.1% 
+ --- image saved --- 12:53:48s__28:01:2023__18.8c__59.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.7 C    Humidity: 59.2% 
+ --- image saved --- 12:55:09s__28:01:2023__18.7c__59.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.6 C    Humidity: 59.6% 
+ --- image saved --- 12:56:28s__28:01:2023__18.6c__59.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.6 C    Humidity: 59.6% 
+ --- image saved --- 12:58:28s__28:01:2023__18.6c__59.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 60.3% 
+ --- image saved --- 13:04:28s__28:01:2023__18.3c__60.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 60.4% 
+ --- image saved --- 13:06:03s__28:01:2023__18.3c__60.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 60.3% 
+ --- image saved --- 13:06:48s__28:01:2023__18.3c__60.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 60.3% 
+ --- image saved --- 13:08:28s__28:01:2023__18.3c__60.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 60.3% 
+ --- image saved --- 13:12:48s__28:01:2023__18.3c__60.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 60.3% 
+ --- image saved --- 13:13:08s__28:01:2023__18.3c__60.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 60.3% 
+ --- image saved --- 13:14:08s__28:01:2023__18.3c__60.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 60.2% 
+ --- image saved --- 13:16:05s__28:01:2023__18.4c__60.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 60.1% 
+ --- image saved --- 13:16:28s__28:01:2023__18.4c__60.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 60.0% 
+ --- image saved --- 13:18:31s__28:01:2023__18.4c__60.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 60.0% 
+ --- image saved --- 13:19:08s__28:01:2023__18.4c__60.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 60.1% 
+ --- image saved --- 13:22:28s__28:01:2023__18.4c__60.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.5 C    Humidity: 59.9% 
+ --- image saved --- 13:22:48s__28:01:2023__18.5c__59.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 60.4% 
+ --- image saved --- 13:23:34s__28:01:2023__18.4c__60.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.4 C    Humidity: 60.7% 
+ --- image saved --- 13:24:07s__28:01:2023__18.4c__60.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.5 C    Humidity: 60.8% 
+ --- image saved --- 13:25:07s__28:01:2023__18.5c__60.8h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.5 C    Humidity: 61.4% 
+ --- image saved --- 14:10:01s__28:01:2023__18.5c__61.4h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 17.2 C    Humidity: 64.4% 
+ --- image saved --- 14:10:59s__28:01:2023__17.2c__64.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 17.1 C    Humidity: 64.4% 
+ --- image saved --- 14:11:08s__28:01:2023__17.1c__64.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 17.2 C    Humidity: 64.4% 
+ --- image saved --- 14:16:18s__28:01:2023__17.2c__64.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.0 C    Humidity: 56.9% 
+ --- image saved --- 14:16:27s__28:01:2023__16.0c__56.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.0 C    Humidity: 57.0% 
+ --- image saved --- 14:16:36s__28:01:2023__16.0c__57.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 16.0 C    Humidity: 57.4% 
+ --- image saved --- 14:16:46s__28:01:2023__16.0c__57.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.9 C    Humidity: 58.3% 
+ --- image saved --- 14:17:13s__28:01:2023__15.9c__58.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.3 C    Humidity: 59.0% 
+ --- image saved --- 14:20:50s__28:01:2023__15.3c__59.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.2 C    Humidity: 59.3% 
+ --- image saved --- 14:22:04s__28:01:2023__15.2c__59.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.2 C    Humidity: 59.3% 
+ --- image saved --- 14:22:15s__28:01:2023__15.2c__59.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.2 C    Humidity: 60.7% 
+ --- image saved --- 14:22:27s__28:01:2023__15.2c__60.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.1 C    Humidity: 61.1% 
+ --- image saved --- 14:22:37s__28:01:2023__15.1c__61.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.1 C    Humidity: 61.0% 
+ --- image saved --- 14:22:50s__28:01:2023__15.1c__61.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.1 C    Humidity: 60.6% 
+ --- image saved --- 14:23:05s__28:01:2023__15.1c__60.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.1 C    Humidity: 60.4% 
+ --- image saved --- 14:23:17s__28:01:2023__15.1c__60.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.1 C    Humidity: 60.2% 
+ --- image saved --- 14:23:44s__28:01:2023__15.1c__60.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 14.6 C    Humidity: 60.4% 
+ --- image saved --- 14:26:09s__28:01:2023__14.6c__60.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 14.3 C    Humidity: 61.2% 
+ --- image saved --- 14:28:29s__28:01:2023__14.3c__61.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 14.3 C    Humidity: 61.2% 
+ --- image saved --- 14:29:43s__28:01:2023__14.3c__61.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 14.2 C    Humidity: 61.5% 
+ --- image saved --- 14:30:52s__28:01:2023__14.2c__61.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 14.0 C    Humidity: 62.0% 
+ --- image saved --- 14:31:02s__28:01:2023__14.0c__62.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 14.0 C    Humidity: 61.9% 
+ --- image saved --- 14:31:49s__28:01:2023__14.0c__61.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.9 C    Humidity: 61.9% 
+ --- image saved --- 14:32:49s__28:01:2023__13.9c__61.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.8 C    Humidity: 62.6% 
+ --- image saved --- 14:33:28s__28:01:2023__13.8c__62.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.8 C    Humidity: 62.6% 
+ --- image saved --- 14:35:49s__28:01:2023__13.8c__62.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.6 C    Humidity: 62.8% 
+ --- image saved --- 14:37:29s__28:01:2023__13.6c__62.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.4 C    Humidity: 62.9% 
+ --- image saved --- 14:38:08s__28:01:2023__13.4c__62.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.4 C    Humidity: 63.0% 
+ --- image saved --- 14:39:50s__28:01:2023__13.4c__63.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.2 C    Humidity: 64.0% 
+ --- image saved --- 14:40:29s__28:01:2023__13.2c__64.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.2 C    Humidity: 64.0% 
+ --- image saved --- 14:41:48s__28:01:2023__13.2c__64.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.1 C    Humidity: 63.9% 
+ --- image saved --- 14:46:22s__28:01:2023__13.1c__63.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.9 C    Humidity: 65.0% 
+ --- image saved --- 14:46:56s__28:01:2023__12.9c__65.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.9 C    Humidity: 65.1% 
+ --- image saved --- 14:47:48s__28:01:2023__12.9c__65.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.8 C    Humidity: 65.2% 
+ --- image saved --- 14:48:28s__28:01:2023__12.8c__65.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.8 C    Humidity: 64.9% 
+ --- image saved --- 14:51:08s__28:01:2023__12.8c__64.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.7 C    Humidity: 65.2% 
+ --- image saved --- 14:52:08s__28:01:2023__12.7c__65.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.7 C    Humidity: 65.2% 
+ --- image saved --- 14:52:18s__28:01:2023__12.7c__65.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.6 C    Humidity: 66.0% 
+ --- image saved --- 14:53:48s__28:01:2023__12.6c__66.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.5 C    Humidity: 65.6% 
+ --- image saved --- 14:55:48s__28:01:2023__12.5c__65.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.5 C    Humidity: 65.6% 
+ --- image saved --- 14:58:28s__28:01:2023__12.5c__65.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.4 C    Humidity: 66.2% 
+ --- image saved --- 14:59:50s__28:01:2023__12.4c__66.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.4 C    Humidity: 66.0% 
+ --- image saved --- 15:01:28s__28:01:2023__12.4c__66.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.3 C    Humidity: 66.3% 
+ --- image saved --- 15:01:56s__28:01:2023__12.3c__66.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.3 C    Humidity: 66.3% 
+ --- image saved --- 15:02:48s__28:01:2023__12.3c__66.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.3 C    Humidity: 66.6% 
+ --- image saved --- 15:04:50s__28:01:2023__12.3c__66.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.3 C    Humidity: 66.4% 
+ --- image saved --- 15:07:24s__28:01:2023__12.3c__66.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.2 C    Humidity: 66.7% 
+ --- image saved --- 15:08:08s__28:01:2023__12.2c__66.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.2 C    Humidity: 66.7% 
+ --- image saved --- 15:08:50s__28:01:2023__12.2c__66.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.2 C    Humidity: 66.9% 
+ --- image saved --- 15:10:10s__28:01:2023__12.2c__66.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.1 C    Humidity: 67.0% 
+ --- image saved --- 15:11:08s__28:01:2023__12.1c__67.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.1 C    Humidity: 67.0% 
+ --- image saved --- 15:12:08s__28:01:2023__12.1c__67.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.2 C    Humidity: 67.0% 
+ --- image saved --- 15:13:48s__28:01:2023__12.2c__67.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.1 C    Humidity: 67.1% 
+ --- image saved --- 15:17:29s__28:01:2023__12.1c__67.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.0 C    Humidity: 67.4% 
+ --- image saved --- 15:18:28s__28:01:2023__12.0c__67.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.0 C    Humidity: 67.3% 
+ --- image saved --- 15:19:13s__28:01:2023__12.0c__67.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.5% 
+ --- image saved --- 15:21:09s__28:01:2023__11.9c__67.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.5% 
+ --- image saved --- 15:21:33s__28:01:2023__11.9c__67.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.8% 
+ --- image saved --- 15:23:26s__28:01:2023__11.9c__67.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.8% 
+ --- image saved --- 15:24:28s__28:01:2023__11.9c__67.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.4% 
+ --- image saved --- 15:25:48s__28:01:2023__11.9c__67.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.8% 
+ --- image saved --- 15:26:48s__28:01:2023__11.9c__67.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.7% 
+ --- image saved --- 15:28:15s__28:01:2023__11.9c__67.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.9 C    Humidity: 67.7% 
+ --- image saved --- 15:29:07s__28:01:2023__11.9c__67.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.8 C    Humidity: 67.6% 
+ --- image saved --- 15:29:35s__28:01:2023__11.8c__67.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.8 C    Humidity: 67.9% 
+ --- image saved --- 15:32:04s__28:01:2023__11.8c__67.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.8 C    Humidity: 68.0% 
+ --- image saved --- 15:33:48s__28:01:2023__11.8c__68.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.8 C    Humidity: 68.0% 
+ --- image saved --- 15:34:53s__28:01:2023__11.8c__68.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.8 C    Humidity: 68.0% 
+ --- image saved --- 15:37:54s__28:01:2023__11.8c__68.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.7 C    Humidity: 68.0% 
+ --- image saved --- 15:38:48s__28:01:2023__11.7c__68.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.7 C    Humidity: 68.4% 
+ --- image saved --- 15:39:17s__28:01:2023__11.7c__68.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.7 C    Humidity: 68.4% 
+ --- image saved --- 15:43:08s__28:01:2023__11.7c__68.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 68.5% 
+ --- image saved --- 15:44:50s__28:01:2023__11.6c__68.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 68.8% 
+ --- image saved --- 15:46:01s__28:01:2023__11.6c__68.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 68.8% 
+ --- image saved --- 15:46:14s__28:01:2023__11.6c__68.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 69.1% 
+ --- image saved --- 15:48:29s__28:01:2023__11.6c__69.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 69.1% 
+ --- image saved --- 15:48:42s__28:01:2023__11.6c__69.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 68.8% 
+ --- image saved --- 15:48:53s__28:01:2023__11.6c__68.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 69.2% 
+ --- image saved --- 15:49:04s__28:01:2023__11.6c__69.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 69.2% 
+ --- image saved --- 15:49:16s__28:01:2023__11.6c__69.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 69.5% 
+ --- image saved --- 15:49:50s__28:01:2023__11.6c__69.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.6 C    Humidity: 69.4% 
+ --- image saved --- 15:51:48s__28:01:2023__11.6c__69.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.8 C    Humidity: 69.6% 
+ --- image saved --- 15:52:42s__28:01:2023__11.8c__69.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 11.8 C    Humidity: 69.6% 
+ --- image saved --- 15:53:46s__28:01:2023__11.8c__69.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.1 C    Humidity: 70.1% 
+ --- image saved --- 15:54:27s__28:01:2023__12.1c__70.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.1 C    Humidity: 70.1% 
+ --- image saved --- 15:56:28s__28:01:2023__12.1c__70.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 12.6 C    Humidity: 70.5% 
+ --- image saved --- 15:59:50s__28:01:2023__12.6c__70.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 13.7 C    Humidity: 68.4% 
+ --- image saved --- 16:00:03s__28:01:2023__13.7c__68.4h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.4 C    Humidity: 52.8% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.3 C    Humidity: 52.7% 
+ --- image saved --- 16:21:52s__28:01:2023__21.3c__52.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.2 C    Humidity: 52.7% 
+ --- image saved --- 16:22:08s__28:01:2023__21.2c__52.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.1 C    Humidity: 52.8% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 21.1 C    Humidity: 52.8% 
+ --- image saved --- 16:23:05s__28:01:2023__21.1c__52.8h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.9 C    Humidity: 57.9% 
+ --- image saved --- 16:26:06s__28:01:2023__20.9c__57.9h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 58.3% 
+ --- image saved --- 16:26:16s__28:01:2023__20.8c__58.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 58.0% 
+ --- image saved --- 16:26:27s__28:01:2023__20.8c__58.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.8 C    Humidity: 56.2% 
+ --- image saved --- 16:28:35s__28:01:2023__20.8c__56.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 60.2% 
+ --- image saved --- 16:29:05s__28:01:2023__20.7c__60.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 58.8% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 55.3% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.7 C    Humidity: 55.2% 
+ --- image saved --- 16:32:54s__28:01:2023__20.7c__55.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.7 C    Humidity: 55.0% 
+ --- image saved --- 16:33:15s__28:01:2023__19.7c__55.0h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.0 C    Humidity: 57.5% 
+ --- image saved --- 16:36:28s__28:01:2023__19.0c__57.5h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: False
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.0 C    Humidity: 57.5% 
+ --- image saved --- 16:42:36s__28:01:2023__19.0c__57.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.0 C    Humidity: 58.5% 
+ --- image saved --- 16:45:31s__28:01:2023__18.0c__58.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 57.5% 
+ --- image saved --- 19:36:04s__28:01:2023__18.3c__57.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 18.3 C    Humidity: 57.5% 
+ --- image saved --- 19:37:25s__28:01:2023__18.3c__57.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 17.9 C    Humidity: 53.6% 
+ --- image saved --- 00:11:53s__29:01:2023__17.9c__53.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.3 C    Humidity: 61.5% 
+ --- image saved --- 00:19:22s__29:01:2023__15.3c__61.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.0 C    Humidity: 58.4% 
+ --- image saved --- 00:19:31s__29:01:2023__15.0c__58.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.0 C    Humidity: 58.4% 
+ --- image saved --- 00:19:44s__29:01:2023__15.0c__58.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 15.0 C    Humidity: 58.5% 
+ --- image saved --- 00:21:08s__29:01:2023__15.0c__58.5h__halfMoon(right).jpg
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.2 C    Humidity: 61.6% 
+ --- image saved --- 00:45:05s__29:01:2023__20.2c__61.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 20.2 C    Humidity: 61.6% 
+ --- image saved --- 00:45:35s__29:01:2023__20.2c__61.6h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.9 C    Humidity: 61.7% 
+ --- image saved --- 00:46:00s__29:01:2023__19.9c__61.7h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.3 C    Humidity: 64.5% 
+ --- image saved --- 00:50:30s__29:01:2023__19.3c__64.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.3 C    Humidity: 64.3% 
+ --- image saved --- 00:50:44s__29:01:2023__19.3c__64.3h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.3 C    Humidity: 64.3% 
+ --- image saved --- 00:50:56s__29:01:2023__19.3c__64.3h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.3 C    Humidity: 64.3% 
+ --- except --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.1 C    Humidity: 72.1% 
+ --- image saved --- 00:55:05s__29:01:2023__19.1c__72.1h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.2 C    Humidity: 69.0% 
+ --- image saved --- 00:55:15s__29:01:2023__19.2c__69.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.2 C    Humidity: 69.5% 
+ --- image saved --- 00:55:25s__29:01:2023__19.2c__69.5h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.3 C    Humidity: 70.2% 
+ --- image saved --- 00:55:36s__29:01:2023__19.3c__70.2h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.3 C    Humidity: 70.0% 
+ --- image saved --- 00:55:45s__29:01:2023__19.3c__70.0h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 19.5 C    Humidity: 69.4% 
+ --- image saved --- 00:55:56s__29:01:2023__19.5c__69.4h__halfMoon(right).jpg
+ --- Keyboard Interrupt --- 
+ --- GPIO cleanup ---
+ --- Finally ---
+flash is on: True
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 9.5 C    Humidity: 86.7% 
+ --- image saved --- 00:24:23s__29:01:2023__9.5c__86.7h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
+ --- flash off --- 
+Temp: 8.8 C    Humidity: 84.4% 
+ --- image saved --- 00:24:39s__29:01:2023__8.8c__84.4h__halfMoon(right).jpg
+ --- Motion Detected --- 
+ --- flash on --- 
+ --- taking photo --- 
