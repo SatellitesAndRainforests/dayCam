@@ -10,7 +10,8 @@ from time import sleep
 GPIO.setmode(GPIO.BCM)
 
 # PIR
-GPIO.setup(25, GPIO.IN)
+#GPIO.setup(25, GPIO.IN)
+GPIO.setup(16, GPIO.IN)
 
 # DHT22
 DHT_SENSOR = Adafruit_DHT.DHT22
@@ -56,6 +57,7 @@ def capture_image():
 
     cameraCommand = ('libcamera-still '
                 '--autofocus '   
+                '--vflip=yes '   
                 '-o /home/pi/dayCam/images/temp/temp.jpg')
     os.system( cameraCommand )
 
@@ -151,7 +153,7 @@ def main():
 
     try:
         while True:
-            i = GPIO.input(25)      # sensor sends 1 for motion, otherwise 0
+            i = GPIO.input(16)      # sensor sends 1 for motion, otherwise 0
             if i==1:
                 write_to_log(" --- Motion Detected --- ")
                 capture_image()
